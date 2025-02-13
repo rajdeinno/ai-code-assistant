@@ -1,6 +1,7 @@
 # AI Code Assistant
 
-This project provides an AI-powered code assistant built using deepseek-coder:1.3b (Deep Seek), wizardlm2:7b, codegemma:2b, Streamlit and LangChain. It assists users by generating, refactoring, or explaining code in multiple programming languages. Users can choose from different AI models for code generation and interact with the assistant through a simple web interface.
+This project provides an AI-powered code assistant built using **deepseek-coder:1.3b (Deep Seek), wizardlm2:7b, codegemma:2b**, 
+Streamlit and LangChain. It assists users by generating, refactoring, or explaining code in multiple programming languages. Users can choose from different AI models for code generation and interact with the assistant through a simple web interface.
 
 ## Features
 
